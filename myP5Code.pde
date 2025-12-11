@@ -12,8 +12,23 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   
+line(110,300,150,350)
+line(110,300,110,260)  
+line(150,285,110,260)  
+line(150,285,120,230)  
+line(123,170,120,230)
+line(123,170,145,155)
 
-  
+
+triangle()
+
+
+
+
+
+ellipse(175,200,100,100)
+ellipse(184,300,75,90)
+ellipse(160,70,75,90)
 
 }
 
